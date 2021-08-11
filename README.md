@@ -6,7 +6,7 @@
 
 > English 🇺🇸
 
-**Guilherme de Abreu**, student of Systems of Information at USP, Bachelor in Graphic Design at UAM, Art Director with over three years of professional experience, having been awarded by design work. I'm looking out for a part-time job or internship in the field of Information Tecnology.
+**Guilherme de Abreu**, student of Information Systems at USP, Bachelor in Graphic Design at UAM, Art Director with over three years of professional experience, having been awarded by design work. I'm looking out for a part-time job or internship in the field of Information Tecnology.
 
 ---
 
