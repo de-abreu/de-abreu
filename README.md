@@ -1,12 +1,12 @@
 > Português brasileiro 🇧🇷
 
-**Guilherme de Abreu**, estudante do curso de Sistemas de informação na USP, Bacharel em Design Gráfico pela UAM e Diretor de Arte com mais de três anos de experiência profissional, já tendo sido premiado pelo meu trabalho de design. Busco oportunidades de emprego de meio período ou estágio no âmbito da Tecnologia da Informação.
+**Guilherme de Abreu**, estudante do curso de Ciência da Computação do Instituto de Ciências Matemáticas e de  Computação da Universidade de São Paulo (ICMC - USP).
 
 ---
 
 > English 🇺🇸
 
-**Guilherme de Abreu**, student of Information Systems at USP, Bachelor in Graphic Design at UAM, Art Director with over three years of professional experience, having been awarded by design work. I'm looking out for a part-time job or internship in the field of Information Tecnology.
+**Guilherme de Abreu**, student of Computer Science in the Institute of Mathematical and Computational Sciences of the University of São Paulo (ICMC - USP).
 
 ---
 
@@ -18,7 +18,6 @@
 
 [![SI](images/SI_ico.png) Sistemas de Informação - USP](https://github.com/SI-USP)
 
-**Links:**
+**Demais links/Other links:**
 
 - [Currículo/Résumé](https://trampos.co/guilhermeabreu)
-- [Portfólio/Portfolio](http://be.net/guilhermeabreu)
